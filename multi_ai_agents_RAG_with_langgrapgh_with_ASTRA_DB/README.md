@@ -2,7 +2,7 @@
 
 #### Architecture:
 
-![Architecture Diagram]("architecture.png")
+![Architecture Diagram](https://github.com/mdshamsad1996/langgraph-multi-ai-agents/blob/main/multi_ai_agents_RAG_with_langgrapgh_with_ASTRA_DB/architecture.png)
 
 #### create ```retriever``` for astradb vectro store
 -   Initialize the astra sb connection
